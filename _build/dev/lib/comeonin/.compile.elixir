@@ -1,0 +1,41 @@
+v2.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Config.beam">>,
+ 'Elixir.Comeonin.Config',module,<<"lib/comeonin/config.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ [erlang,'Elixir.Enum','Elixir.Range','Elixir.Application'],
+ [],nil}.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Bcrypt.Base64.beam">>,
+ 'Elixir.Comeonin.Bcrypt.Base64',module,<<"lib/comeonin/bcrypt/base64.ex">>,
+ ['Elixir.Bitwise','Elixir.Kernel','Elixir.Module'],
+ ['Elixir.String.Chars',erlang,'Elixir.ArgumentError'],
+ [],nil}.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.beam">>,
+ 'Elixir.Comeonin',module,<<"lib/comeonin.ex">>,
+ ['Elixir.Kernel','Elixir.Module'],
+ ['Elixir.String.Chars',erlang,'Elixir.Comeonin.Pbkdf2',
+  'Elixir.Comeonin.Bcrypt','Elixir.Mix',timer],
+ [],nil}.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Tools.beam">>,
+ 'Elixir.Comeonin.Tools',module,<<"lib/comeonin/tools.ex">>,
+ ['Elixir.Bitwise','Elixir.Kernel','Elixir.Module'],
+ [erlang],
+ [],nil}.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Bcrypt.beam">>,
+ 'Elixir.Comeonin.Bcrypt',module,<<"lib/comeonin/bcrypt.ex">>,
+ ['Elixir.Bitwise','Elixir.Kernel','Elixir.Module'],
+ ['Elixir.String.Chars',erlang,'Elixir.Enum','Elixir.Comeonin.Config',
+  filename,code,'Elixir.Comeonin.Tools',string,binary,crypto,'Elixir.List',
+  'Elixir.Comeonin.Bcrypt.Base64','Elixir.ArgumentError'],
+ [],nil}.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Pbkdf2.Base64.beam">>,
+ 'Elixir.Comeonin.Pbkdf2.Base64',module,<<"lib/comeonin/pbkdf2/base64.ex">>,
+ ['Elixir.Bitwise','Elixir.Enum','Elixir.Kernel','Elixir.Module'],
+ [erlang],
+ [],nil}.
+{<<"/home/l/Workspace/rumbl/_build/dev/lib/comeonin/ebin/Elixir.Comeonin.Pbkdf2.beam">>,
+ 'Elixir.Comeonin.Pbkdf2',module,<<"lib/comeonin/pbkdf2.ex">>,
+ [erlang,'Elixir.Bitwise','Elixir.Kernel','Elixir.Module'],
+ ['Elixir.String.Chars','Elixir.Enum','Elixir.Comeonin.Config',
+  'Elixir.Comeonin.Tools','Elixir.Comeonin.Pbkdf2.Base64','Elixir.String',
+  crypto,'Elixir.IO','Elixir.ArgumentError'],
+ [],nil}.
